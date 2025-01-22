@@ -2,7 +2,7 @@
 **Project Title:**
 
 - Title : E-Commerce Fashion Platforms
-- Name : FashionConnect
+- Name  : **FashionConnect**
 
 **Project Overview :**
 
