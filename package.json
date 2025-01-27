@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/LITHISHWRAN/S75_FashionConnect/issues"
   },
-  "homepage": "https://github.com/LITHISHWRAN/S75_FashionConnect#readme"
+  "homepage": "https://github.com/LITHISHWRAN/S75_FashionConnect#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
